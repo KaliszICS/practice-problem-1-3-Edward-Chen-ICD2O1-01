@@ -15,8 +15,8 @@ def q2():
   
 def q3():
   #Write Assignment code here
-  print("Man"</br>)
-  print("Board"\br)
+  print("Man</br>")
+
 
 
 #Do not alter anything after this line
