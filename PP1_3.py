@@ -15,8 +15,7 @@ def q2():
   
 def q3():
   #Write Assignment code here
-  print("Man")
-
+    print("Man\nBoard\nMan overboard")
 
 
 #Do not alter anything after this line
