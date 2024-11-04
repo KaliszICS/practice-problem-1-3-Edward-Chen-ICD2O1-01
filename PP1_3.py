@@ -12,7 +12,7 @@ def q2():
   
 def q3():
   #Write Assignment code here
-    print("Man\nBoard\nMan overboard")
+    print("'Man'\n'Board'\n'Man overboard'")
 
 
 #Do not alter anything after this line
