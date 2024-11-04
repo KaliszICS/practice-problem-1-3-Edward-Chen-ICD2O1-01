@@ -1,5 +1,6 @@
 
 
+
 def q1():
   #Write Assignment code here
   #Remember your code must be indented once
@@ -8,11 +9,12 @@ def q1():
   print("* * * * * *\n *\t *\n  *\t*\n   *   *\n    * *\n     *\n")
 def q2():
   #Write Assignment code here
-  print("Hello\nWorld")
+  print("Hello")
+  print("World")
   
 def q3():
   #Write Assignment code here
-    print("'Man'\n'Board'\n'Man overboard'")
+    print('"Man"\n"Board"\n"Man overboard"')
 
 
 #Do not alter anything after this line
